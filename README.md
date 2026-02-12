@@ -17,4 +17,5 @@ Install into a Moodle 5.0 site, and visit `/local/reactdemo/index.php`. Click th
 ## To do
 
 - Make the join between Moodle and React less hacky by having this compile to an AMD module?
+- Make it do HMR (on the Moodle page)
 - Style the button better.
